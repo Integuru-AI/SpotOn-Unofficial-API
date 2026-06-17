@@ -4,10 +4,10 @@ Unofficial Python integrations for SpotOn.
 
 ## Integrations
 
-- `spoton_get_time_clock_entries.py` - `get_time_clock_entries` (1,402 live events).
-- `spoton_get_labor_report.py` - `get_labor_report` (1,400 live events).
-- `spoton_get_orders.py` - `get_orders` (1,218 live events).
-- `spoton_get_labor_breakdown.py` - `get_labor_breakdown` (104 live events).
+- `spoton_get_time_clock_entries.py` - `get_time_clock_entries`.
+- `spoton_get_labor_report.py` - `get_labor_report`.
+- `spoton_get_orders.py` - `get_orders`.
+- `spoton_get_labor_breakdown.py` - `get_labor_breakdown`.
 
 ## Usage
 
